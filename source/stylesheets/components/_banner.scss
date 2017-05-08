@@ -18,4 +18,13 @@
     color: rgba(255, 255, 255, 0.8);
     margin-bottom: 50px;
   }
+  &-flats {
+    height: 450px;
+    background-size: cover !important;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  &-content {
+    background-color: white;
+  }
 }
